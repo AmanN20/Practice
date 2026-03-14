@@ -3,7 +3,7 @@ package com.Practice.java;
 import java.util.Scanner;
 
 public class count_vowels {
-	//COUNT VOWELS,CONSONANTS,SPECIALS
+	
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
